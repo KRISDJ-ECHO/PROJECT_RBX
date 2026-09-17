@@ -1,0 +1,9 @@
+jumlahb = 3
+hargab = 45000
+jumlahp = 2
+hargap = 7500
+jumlaht = 1
+hargat = 120000
+diskon = 0.10
+total = (jumlahb * hargab) + (jumlahp * hargap) + (jumlaht * hargat)
+total1 = print('total harga sebelum diskon adalah: ',total)
